@@ -1,0 +1,16 @@
+ 
+
+        .totop {
+            position: fixed;
+            bottom: 50px;
+            right: 20px;
+            cursor: pointer;
+            display: none;
+            background: #00BCD4;
+            color: #fff;
+            border-radius: 25px;
+            height: 50px;
+            line-height: 50px;
+            padding: 0 20px;
+            font-size: 20px;
+        }
